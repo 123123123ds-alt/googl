@@ -1,0 +1,14 @@
+node_modules
+pnpm-lock.yaml
+.env
+.env.local
+.env.*
+!.env.example
+.next
+*.log
+dist
+tmp
+.DS_Store
+coverage
+prisma/dev.db
+prisma/dev.db-journal
